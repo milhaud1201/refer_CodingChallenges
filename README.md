@@ -32,7 +32,7 @@ CodeUp
    ├── IterTools
    ├── Integrated
    ├── List
-BeakJoon
+BaekJoon
 ├── I/O and four arithmetic operations
 ├── Math
 └── Data Structures
