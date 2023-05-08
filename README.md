@@ -1,6 +1,6 @@
 # study-coding-challenges
 
-<a href="https://www.notion.so/e919e9d4adde4498b152332f32e77c75?pvs=4"><img src="https://user-images.githubusercontent.com/108461149/236724215-22b16cd2-d5a1-4cec-828b-13b09eae8999.png" width="50"></a>
+<a href="https://www.notion.so/e919e9d4adde4498b152332f32e77c75?pvs=4" target="_black"><img src="https://user-images.githubusercontent.com/108461149/236724215-22b16cd2-d5a1-4cec-828b-13b09eae8999.png" width="50"></a>
 
 ## 소스코드 파일 이름 규칙
 * 하위 디렉토리 구조_{숫자}
