@@ -2,7 +2,7 @@
 
 ## 소스코드 파일 이름 규칙
 * 하위 디렉토리 구조_{숫자}
-  * `예시: IterTools_1.py`
+  * `예시: 1 - IterTools.py`
   
 ## 문제이름과 주소는 코드 내 주석으로 달아주세요
 ```
@@ -22,7 +22,7 @@
       * 시간: hr
   
 ```
-git commit -m " Hello World / level1 / 5min"
+git commit -m "Hello World / level1 / 5min"
 ```
 
 ## 디렉토리 구조 🌲
@@ -33,7 +33,7 @@ CodeUp
    ├── Integrated
    ├── List
 BaekJoon
-├── I/O and four arithmetic operations
-├── Math
-└── Data Structures
+├── 1 - IO and four arithmetic operations
+├── 2 - Data Structures
+└── 3 - Math
 ```
