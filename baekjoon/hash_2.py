@@ -13,3 +13,4 @@ def solution(participant, completion):
     for name, count in participant_dict.items():
         if count != 0:
             return name
+        
