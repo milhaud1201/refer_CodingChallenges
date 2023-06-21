@@ -1,17 +1,14 @@
 """
-문제이름: 동전 0
-주소: https://www.acmicpc.net/problem/11047
+문제이름: 세탁소 사장 동혁
+주소: https://www.acmicpc.net/problem/2720
 """
 
-N, K = map(int, input().split())
-coins = [int(input()) for _ in range(N)]
-print(coins)
-coins.reverse()  # 내림차순
-ans = 0
-
-for coin in coins:
-    ans += K // coin   # 4200 // 1000 = 4
-    K %= coin  # K = 200
-    print(f'coin: {coin}, K:{K}, ans:{ans}')
-
-print(ans)
+for i in range(int(input())):
+    C = int(input())
+    coins = [25, 10, 5, 1]
+    ans = 0
+    for coin in coins:
+        ans = C // coin  # 124 // 25 = 4
+        C %= coin  # 124 % 25 = 24
+        # print(f"coin: {coin}, C: {C}, ans: {ans}")
+        print(ans, end=' ')
