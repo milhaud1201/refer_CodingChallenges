@@ -24,8 +24,8 @@
       * Lv.0, Lv.1, Lv.2, Lv.3, Lv.4
       * Bronze5, Bronze4, Bronze3, Bronze2, Bronze1
   * 걸린시간
-      * 분: min
-      * 시간: hr
+      * 분: mins
+      * 시간: hrs
   
 ```
 git commit -m "Hello World / level1 / 5min"
